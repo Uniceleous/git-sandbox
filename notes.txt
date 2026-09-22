@@ -1,1 +1,1 @@
-﻿Line version committed on main
+﻿Resolved content after rebase conflict.
