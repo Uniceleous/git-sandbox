@@ -1,1 +1,1 @@
-﻿Line changed differently on main branch
+﻿Resolved content: merged changes from both main and conflict-branch.
